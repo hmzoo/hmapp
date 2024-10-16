@@ -1,6 +1,0 @@
-@Schemas = {}
-
-
-SimpleSchema.debug = true
-
-
